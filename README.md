@@ -1,8 +1,12 @@
 # helloFlask
 
-helloFlask utilise Python 3.8.6
+Mon helloFlask utilise Python 3.8.6    
+prise en main de pyenv et poetry   
+Test de site web local avec jinja    
 
-
+---
+#MEMO
+---
 
 Installation et utilisation de Pyenv
 ---
