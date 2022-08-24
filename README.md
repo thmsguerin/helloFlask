@@ -3,7 +3,14 @@
 Mon helloFlask utilise Python 3.8.6    
 prise en main de pyenv et poetry   
 Test de site web local avec jinja    
-   
+    
+pyenv ---> installer python vXXX 
+       
+poetry ---> rend transparent la creation d'un projet Python   
+ -> gestion de l'env virtuel    
+ -> arborescence du projet   
+ -> gestion des dependances   
+ -> packaging d'un projet    
    
 # MEMO
    
