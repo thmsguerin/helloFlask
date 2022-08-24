@@ -5,7 +5,7 @@ prise en main de pyenv et poetry
 Test de site web local avec jinja    
 
 ---
-#MEMO
+# MEMO
 ---
 
 Installation et utilisation de Pyenv
@@ -13,9 +13,10 @@ Installation et utilisation de Pyenv
 pyenv install 3.8.6   
 aller dans le dossier et faire    
 pyenv local 3.8.6    
-    
      
-pyenv version permet de voir les versions de python et les env virtuels
+"pyenv versions" permet de voir les versions de python et les env virtuels   
+pour creer un virtual environnement :    
+pyenv virtualenv "version python" "nom de l'env"   
 
 
 Installation et utilisation de Poetry
